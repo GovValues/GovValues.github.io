@@ -14,7 +14,7 @@ questions =  [
     {"id": 12, "question": "Core support is necessary for any government to succeed.", "effects": {"popularity": 1}},
     {"id": 13, "question": "The legislature requires a majority party in order to function.", "effects": {"popularity": 1}},
     {"id": 14, "question": "The candidate that receives the most votes should always win or at least enter the second round.", "effects": {"popularity": 1}},
-    {"id": 15, "question": "In times of conflict, popularity becomes more important than broad acceptability.", "effects": {"popularity": 1}},
+    {"id": 15, "question": "In case of uncertainty, popularity is more important than broad acceptability.", "effects": {"popularity": 1}},
     {"id": 16, "question": "The spoiler effect should be made less significant if not completely eliminated.", "effects": {"popularity": -1}},
     {"id": 17, "question": "Without a large approval rate, an election winner is illegitimate.", "effects": {"popularity": -1}},
     {"id": 18, "question": "Ranked-choice voting was not proposed to better represent the people, but to uphold the status-quo while making an illusion of improvement.", "effects": {"popularity": -1}},
