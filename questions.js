@@ -1,5 +1,5 @@
 questions =  [
-    {"id": 0, "question": "The president should have a veto power that can only be overriden by a supermajority.", "effects": {"presidential": 1}},
+    {"id": 0, "question": "The president should have a veto power that can only be overridden by a supermajority.", "effects": {"presidential": 1}},
     {"id": 1, "question": "A separate election is a better way of choosing a president than having them appointed by the legislature.", "effects": {"presidential": 1}},
     {"id": 2, "question": "Having a separate head of government and a head of state is an ideal that can never work in practice.", "effects": {"presidential": 1}},
     {"id": 3, "question": "Motion of no confidence is a bad idea, the state would be better off without it.", "effects": {"presidential": 1}},
