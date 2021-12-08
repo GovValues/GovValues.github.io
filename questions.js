@@ -19,7 +19,7 @@ questions =  [
     {"id": 17, "question": "Without a large approval rate, an election winner is illegitimate.", "effects": {"popularity": -1}},
     {"id": 18, "question": "Ranked-choice voting was not proposed to better represent the people, but to uphold the status-quo while making an illusion of improvement.", "effects": {"popularity": -1}},
     {"id": 19, "question": "A majoritarian electoral college is a bad idea because it gives swing states too much influence over the result.", "effects": {"popularity": -1}},
-    {"id": 20, "question": "The composition of opinions in the legislature should reflect that in the general population, even if it leads to unstable coalitions.", "effects": {"pluralism": 1}},
+    {"id": 20, "question": "The composition of opinions in the general population should be reflected in the legislature, even if it leads to unstable coalitions.", "effects": {"pluralism": 1}},
     {"id": 21, "question": "Because the legislature and the government are supposed to uphold the will of the people, the people should be able to demand a snap election.", "effects": {"pluralism": 1}},
     {"id": 22, "question": "A voter should be able to vote for a candidate that is running in a different part of the country.", "effects": {"pluralism": 1}},
     {"id": 23, "question": "Having hundreds of candidates on the ballot is perfectly acceptable.", "effects": {"pluralism": 1}},
