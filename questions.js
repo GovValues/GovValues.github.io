@@ -10,7 +10,7 @@ questions =  [
     {"id": 8, "question": "The head of state should not interfere with the government.", "effects": {"presidential": -1}},
     {"id": 9, "question": "The executive branch should answer to the legislature.", "effects": {"presidential": -1}},
     {"id": 10, "question": "Sometimes it is right that the state may redraw the voting districts to prevent fringe groups from getting elected.", "effects": {"popularity": 1}},
-    {"id": 11, "question": "The most popular option should be chosen even if most people disagree with it.", "effects": {"popularity": 1}},
+    {"id": 11, "question": "The most popular option should be chosen even if a majority disagrees with it.", "effects": {"popularity": 1}},
     {"id": 12, "question": "Core support is necessary for any government to succeed.", "effects": {"popularity": 1}},
     {"id": 13, "question": "The legislature requires a majority party in order to function.", "effects": {"popularity": 1}},
     {"id": 14, "question": "FPTP with a possible second round is a good electoral system.", "effects": {"popularity": 1}},
