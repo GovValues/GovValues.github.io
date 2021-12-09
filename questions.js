@@ -26,7 +26,7 @@ questions =  [
     {"id": 24, "question": "Left-wing and right-wing districts are a social construct, not a natural state of affairs.", "effects": {"pluralism": 1}},
     {"id": 25, "question": "A snap election should be called if no coalition is able to form.", "effects": {"pluralism": -1}},
     {"id": 26, "question": "Multi-member constituencies create political instability and should be avoided.", "effects": {"pluralism": -1}},
-    {"id": 27, "question": "A voting threshold should exist for third parties.", "effects": {"pluralism": -1}},
+    {"id": 27, "question": "An electoral threshold should exist for third parties.", "effects": {"pluralism": -1}},
     {"id": 28, "question": "The constitution should never be changed.", "effects": {"pluralism": -1}},
     {"id": 29, "question": "Multi-party politics is bad.", "effects": {"pluralism": -1}}
 ];
