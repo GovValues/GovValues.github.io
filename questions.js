@@ -9,7 +9,7 @@ questions =  [
     {"id": 7, "question": "The legislature should have a final say on who will get the governmental positions.", "effects": {"presidential": -1}},
     {"id": 8, "question": "The head of state should not interfere with the government.", "effects": {"presidential": -1}},
     {"id": 9, "question": "The executive branch should answer to the legislature.", "effects": {"presidential": -1}},
-    {"id": 10, "question": "Sometimes it is right that the state may redraw the voting districts to prevent fringe groups from getting elected.", "effects": {"popularity": 1}},
+    {"id": 10, "question": "Sometimes it is right that the state may redraw voting districts to prevent fringe groups from getting elected.", "effects": {"popularity": 1}},
     {"id": 11, "question": "The most popular option should be chosen even if a majority disagrees with it.", "effects": {"popularity": 1}},
     {"id": 12, "question": "Loyal supporters are necessary for any government to succeed.", "effects": {"popularity": 1}},
     {"id": 13, "question": "The legislature requires a majority party in order to function.", "effects": {"popularity": 1}},
