@@ -16,7 +16,7 @@ questions =  [
     {"id": 14, "question": "Voting for more than one candidate should invalidate the ballot.", "effects": {"popularity": 1}},
     {"id": 15, "question": "A popular candidate should be preferred over a broadly acceptable one.", "effects": {"popularity": 1}},
     {"id": 16, "question": "The spoiler effect should be made less significant if not completely eliminated.", "effects": {"popularity": -1}},
-    {"id": 17, "question": "Without a large approval rate, an election winner is illegitimate.", "effects": {"popularity": -1}},
+    {"id": 17, "question": "A government with a large disapproval rate is illegitimate.", "effects": {"popularity": -1}},
     {"id": 18, "question": "Ranked-choice voting was not proposed to better represent the people, but to uphold the status-quo while making an illusion of improvement.", "effects": {"popularity": -1}},
     {"id": 19, "question": "A majoritarian electoral college is a bad idea because it gives swing states too much influence over the result.", "effects": {"popularity": -1}},
     {"id": 20, "question": "The composition of opinions in the general population should be reflected in the legislature, even if it leads to unstable coalitions.", "effects": {"pluralism": 1}},
