@@ -11,7 +11,7 @@ questions =  [
     {"id": 9, "question": "The executive branch should answer to the legislature.", "effects": {"presidential": -1}},
     {"id": 10, "question": "Sometimes it is right that the state may redraw the voting districts to prevent fringe groups from getting elected.", "effects": {"popularity": 1}},
     {"id": 11, "question": "The most popular option should be chosen even if a majority disagrees with it.", "effects": {"popularity": 1}},
-    {"id": 12, "question": "Core support is necessary for any government to succeed.", "effects": {"popularity": 1}},
+    {"id": 12, "question": "Loyal supporters are necessary for any government to succeed.", "effects": {"popularity": 1}},
     {"id": 13, "question": "The legislature requires a majority party in order to function.", "effects": {"popularity": 1}},
     {"id": 14, "question": "Voting for more than one candidate should invalidate the ballot.", "effects": {"popularity": 1}},
     {"id": 15, "question": "A popular candidate should be preferred over a broadly acceptable one.", "effects": {"popularity": 1}},
